@@ -1,0 +1,15 @@
+{
+  "name": "js_datastructure",
+  "version": "1.0.0",
+  "description": "interview preparation on data Structure",
+  "main": "App.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Naveen G",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
